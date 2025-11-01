@@ -1,4 +1,4 @@
-## **🌿🌿 Invernadero Inteligente - Packet Tracer 🌿🌿**
+## **🌿🌿 Invernadero inteligente en Packet Tracer 🌿🌿**
 
 
 Simulación de un sistema de invernadero inteligente que automatiza el control ambiental mediante sensores IoT y actuadores, gestionado a través de una red local con capacidad de monitoreo remoto.
